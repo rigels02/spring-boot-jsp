@@ -2,7 +2,7 @@ Spring Boot with JSP pages
 ===========================
 Technologies: Spring-Boot with WEB, JPA, JAXRS, JSP and Boostrap css/js framework.
 
-INFO:
+Reference:
 https://github.com/spring-projects/spring-boot/tree/v1.5.8.RELEASE/spring-boot-samples/spring-boot-sample-web-jsp
 
 
